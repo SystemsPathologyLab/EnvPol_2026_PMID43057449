@@ -4,7 +4,7 @@
 
 Sun P, Parra AC, Sanches TR, Wikuats CFH, Butter L, Claessen N, Baelde HJ, Schimmel IM, van der Wel N, Berlingerio SP, Janssens GE, Houtkooper RH, Vaz FM, Roelofs JJTH, Boor P, Strauch M, de Fatima Andrade M, Andrade L, Florquin S, Kers J, Romagnolo A, Tammaro A. *Environ Pollut.* 2026 Nov 19:129547. doi: [10.1016/j.envpol.2026.129547](https://doi.org/10.1016/j.envpol.2026.129547). PMID: [43057449](https://pubmed.ncbi.nlm.nih.gov/43057449/).
 
-For questions about the data or code, please contact [Peiqi Sun] ([p.sun@amsterdamumc.nl]) or open an issue in this repository. For questions about the paper, please contact the corresponding author, [Alessandra Tammaro] ([a.tammaro@lumc.nl]).
+For questions about the data or code, please contact Peiqi Sun ([p.sun@amsterdamumc.nl]) or open an issue in this repository. For questions about the paper, please contact the corresponding author, Alessandra Tammaro ([a.tammaro@lumc.nl]).
 
 ## Data Availability
 
