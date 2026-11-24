@@ -18,31 +18,31 @@ This script contains the RNAseq analysis used to generate the following figures:
 
 **Main Figures**
 
--   Figure 1g – Hallmark pathway enrichment analysis
+-   Figure 1g – Hallmark pathway enrichment analysis.
 
--   Figure 3a– Hypoxia-related GO-BP enrichment
+-   Figure 3a – Hypoxia-related GO-BP enrichment.
 
--   Figure 3f – Glycolysis-related GO-BP enrichment
+-   Figure 3f – Glycolysis-related GO-BP enrichment.
 
--   Figure 4b – Lipid catabolic process GSEA
+-   Figure 4b – Lipid catabolic process GSEA.
 
--   Figure 4f – Differential gene expression volcano plot
+-   Figure 4f – Differential gene expression volcano plot.
 
--   Figure 5a – SenMayo GSEA
+-   Figure 5a – SenMayo GSEA.
 
--   Figure 7b - Drug repurposing analysis
+-   Figure 7b - Drug repurposing analysis.
 
 **Supplementary Figures**
 
--   Figure S1b – Hallmark pathway enrichment analysis (Sham+PM vs. Sham+FA)
+-   Figure S1b – Hallmark pathway enrichment analysis (Sham+PM vs. Sham+FA).
 
--   Figure S2a – Hypoxia-related gene expression heatmap
+-   Figure S2a – Hypoxia-related gene expression heatmap.
 
--   Figure S3a – Fatty acid beta-oxidation GSEA
+-   Figure S3a – Fatty acid beta-oxidation GSEA.
 
--   Figure S3e – GO Cellular Component enrichment analysis
+-   Figure S3e – GO Cellular Component enrichment analysis.
 
--   Figure S5a – Response to oxidative stress GSEA
+-   Figure S5a – Response to oxidative stress GSEA.
 
 ### Lipidomics_Metabolomics.R
 
@@ -56,7 +56,7 @@ This script contains the lipidomics and metabolomics analysis used to generate t
 
 -   Figure 4d – PLSDA of lipid.
 
--   Figure 4e– Contributors to PLSDA of lipid.
+-   Figure 4e – Contributors to PLSDA of lipid.
 
 **Supplementary Figures**
 
