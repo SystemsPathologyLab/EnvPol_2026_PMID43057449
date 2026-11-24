@@ -1,6 +1,7 @@
 # EnvPol_2026_PMID43057449
 
 **Chronic exposure to low-concentration urban PM2.5 promotes maladaptive kidney repair after ischemic injury via mitochondrial dysfunction and lysosomal stress. **
+
 Sun P, Parra AC, Sanches TR, Wikuats CFH, Butter L, Claessen N, Baelde HJ, Schimmel IM, van der Wel N, Berlingerio SP, Janssens GE, Houtkoope RH, Vaz FM, Roelofs JJTH, Boor P, Strauch M, de Fatima Andrade M, Andrade L, Florquin S, Kers J, Romagnolo A, Tammaro A. 
 _Environ Pollut. 2026 Nov 19:129547. doi: 10.1016/j.envpol.2026.129547. Epub ahead of print. PMID: 43057449._
 
